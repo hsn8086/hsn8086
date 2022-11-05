@@ -38,7 +38,7 @@
     </a>
     <a href="https://genshin.hoyoverse.com/" class="rich-diff-level-one">
         <img
-            src="https://img.shields.io/badge/-GenshinImpact-FAF9F2?style=flat-square&logo=GenshinImpactc&logoColor=ffffff">
+            src="https://img.shields.io/badge/-GenshinImpact-FAF9F2?style=flat-square&logo=GenshinImpact&logoColor=ffffff">
     </a>
 </p>
 
@@ -46,13 +46,13 @@
 <p align="center">
     <a href="https://twitter.com/hsn8086" class="rich-diff-level-one">
         <img
-            src="https://img.shields.io/badge/dynamic/json?color=000000&label=Twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dhsn8086&style=flat-square">
+            src="https://img.shields.io/badge/dynamic/json?color=000000&label=Twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dhsn8086&style=flat-square&logo=Twitter&logoColor=ffffff">
     </a>
     <a href="https://www.zh314.xyz" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-MyBlog-007396?style=flat-square&logo=blog&logoColor=ffffff">
     </a>
     <a href="https://space.bilibili.com/446060841" class="rich-diff-level-one">
         <img
-            src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D446060841">
+            src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D446060841&logo=bilibili&logoColor=ffffff">
     </a>
 </p>

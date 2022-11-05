@@ -43,12 +43,14 @@
 </p>
 
 <p align="center">Social platform:</p>
-
 <p align="center">
     <a href="https://twitter.com/hsn8086" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff">
+        <img src="https://img.shields.io/badge/dynamic/json?color=000000&label=Twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dhsn8086&style=flat-square">
     </a>
     <a href="https://www.zh314.xyz" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-MyBlog-007396?style=flat-square&logo=blog&logoColor=ffffff">
+    </a>
+    <a href="https://api.spencerwoo.com/substats/?source=bilibili&queryKey=208259" class="rich-diff-level-one">
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D446060841">
     </a>
 </p>

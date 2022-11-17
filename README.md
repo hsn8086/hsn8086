@@ -6,6 +6,13 @@
             alt="hsn's Stats">
     </a>
 </p>
+<p align="center">
+    <a href="https://github.com/hsn8086" class="rich-diff-level-one">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsn8086&title_color=333&text_color=777"
+            alt="hsn's Stats">
+    </a>
+
+</p>
 
 <p align="center">Language:</p>
 

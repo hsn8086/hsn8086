@@ -28,7 +28,7 @@
     </a>
 </p>
 
-<p align="center">Games I play:</p>
+<p align="center">Games:</p>
 
 <p align="center">
     <a href="https://arcaea.lowiro.com/" class="rich-diff-level-one">
@@ -42,10 +42,6 @@
     </a>
     <a href="https://www.minecraft.net" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=ffffff">
-    </a>
-    <a href="https://genshin.hoyoverse.com/" class="rich-diff-level-one">
-        <img
-            src="https://img.shields.io/badge/-GenshinImpact-FAF9F2?style=flat-square&logo=GenshinImpact&logoColor=ffffff">
     </a>
 </p>
 

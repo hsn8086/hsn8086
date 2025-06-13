@@ -20,15 +20,15 @@
     <a href="https://www.python.org/" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
     </a>
-    <a href="https://kotlinlang.org/" class="rich-diff-level-one">
+    <!-- <a href="https://kotlinlang.org/" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff">
     </a>
     <a href="https://www.java.com/" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
-    </a>
+    </a> -->
 </p>
 
-<p align="center">Games:</p>
+<!-- <p align="center">Games:</p>
 
 <p align="center">
     <a href="https://arcaea.lowiro.com/" class="rich-diff-level-one">
@@ -43,7 +43,7 @@
     <a href="https://www.minecraft.net" class="rich-diff-level-one">
         <img src="https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=ffffff">
     </a>
-</p>
+</p> -->
 
 <p align="center">Social platform:</p>
 <p align="center">

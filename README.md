@@ -1,57 +1,27 @@
-# Hi, I’m hsn
+# Hi, I'm hsn
+
+> ACMer / Neko / Software Engineer
+
+## Stack
 
 <p align="center">
-    <a href="https://github.com/hsn8086" class="rich-diff-level-one">
-        <img src="https://github-readme-stats.vercel.app/api?username=hsn8086&title_color=333&text_color=777"
-            alt="hsn's Stats">
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/hsn8086" class="rich-diff-level-one">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsn8086&title_color=333&text_color=777"
-            alt="hsn's Stats">
-    </a>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=fff" />
 </p>
 
-<p align="center">Language:</p>
+## Reach me
 
 <p align="center">
-    <a href="https://www.python.org/" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff">
-    </a>
-    <!-- <a href="https://kotlinlang.org/" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff">
-    </a>
-    <a href="https://www.java.com/" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
-    </a> -->
+  <a href="https://www.zh314.xyz"><img src="https://img.shields.io/badge/Blog-007396?style=flat-square&logo=blog&logoColor=fff" /></a>
+  <a href="https://t.me/hsn8086"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=fff" /></a>
+  <a href="https://twitter.com/hsn8086"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=fff" /></a>
+  <a href="mailto:hsn@zh314.xyz"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=fff" /></a>
 </p>
 
-<!-- <p align="center">Games:</p>
+---
 
 <p align="center">
-    <a href="https://arcaea.lowiro.com/" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/Arc-aea-ffffff?style=flat-square&logo=Arcaea&logoColor=ffffff">
-    </a>
-    <a href="https://www.pigeongames.cn/phigros" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-Phigros-4169E1?style=flat-square&logo=Phigros&logoColor=ffffff">
-    </a>
-    <a href="https://orzmic.fandom.com/wiki/Orzmic_Wiki" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-Orzmic-007396?style=flat-square&logo=Orzmic&logoColor=ffffff">
-    </a>
-    <a href="https://www.minecraft.net" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=ffffff">
-    </a>
-</p> -->
-
-<p align="center">Social platform:</p>
-<p align="center">
-    <a href="https://twitter.com/hsn8086" class="rich-diff-level-one">
-        <img
-            src="https://img.shields.io/badge/dynamic/json?color=000000&label=Twitter&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dhsn8086&style=flat-square&logo=Twitter&logoColor=ffffff">
-    </a>
-    <a href="https://www.zh314.xyz" class="rich-diff-level-one">
-        <img src="https://img.shields.io/badge/-MyBlog-007396?style=flat-square&logo=blog&logoColor=ffffff">
-    </a>
+  <samp>Wanna grow hair but still coding!</samp>
 </p>

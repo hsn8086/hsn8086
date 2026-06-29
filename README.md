@@ -17,7 +17,7 @@
 > Hi, I'm **hsn** — I love writing code and tinkering with new things.
 > By day an **ACMer** grinding algorithms; the rest of the time I turn ideas into
 > working tools with Python. I live in the terminal (Arch btw), occasionally
-> moonlight as a **Bug Maker**, like cats 🐈, and am becoming a truer version of myself. 🏳️‍⚧️
+> moonlight as a **Bug Maker**, and like cats 🐈.
 
 ```python
 class hsn:
